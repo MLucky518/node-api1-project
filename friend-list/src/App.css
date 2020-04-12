@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  
+}
+
+.wrapper{
+  display:flex;
+  justify-content: center;
+}
+
+.friends-container{
+  display: flex;
+  flex-wrap: wrap;
+  width:95%;
+  margin-top:3%;
+}
+
+.field {
+ 
+ display: flex;
+ justify-content: flex-end;
+ 
+}
